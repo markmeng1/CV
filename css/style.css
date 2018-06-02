@@ -182,6 +182,7 @@ footer{
 @media(max-width:768px){
 	header #branding,
 	header nav,
+	header nav li,
 	#newsletter h1,
 	#newsletter form,
 	#boxes .box,
@@ -197,6 +198,14 @@ footer{
 	
 	header{
 		padding-bottom:20px;
+	}
+	
+    header .container{
+		width:100%;
+	}
+	
+	header a{
+		font-size:15px;
 	}
 	
 	#showcase h1{
@@ -224,6 +233,7 @@ footer{
 	
 	#gallery img{
 		padding:0;
+		width:90%;
 	}
 	
 	#videos img{
