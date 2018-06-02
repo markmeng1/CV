@@ -181,7 +181,6 @@ footer{
 @media(max-width:768px){
 	header #branding,
 	header nav，
-	header nav li,
 	#newsletter h1,
 	#newsletter form,
 	#boxes .box,
@@ -192,6 +191,13 @@ footer{
 		float:none;
 		text-align:center;
 		width:100%;
+	}
+	
+	header nave li{
+		float:none;
+		text-align:center;
+		width:100%;
+		padding:10px;
 	}
 	
 	header{
