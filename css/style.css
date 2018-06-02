@@ -156,6 +156,7 @@ aside#sidebar{
 	margin-top:20px;
 }
 
+
 #me{
 	margin:0;
 	text-align:center;
@@ -193,15 +194,6 @@ footer{
 		width:100%;
 	}
 	
-	header nave li{
-		float:none;
-		text-align:center;
-		padding:0 5px;
-	}
-	
-	header a{
-		font-size:10px;
-	}
 	
 	header{
 		padding-bottom:20px;
@@ -232,5 +224,9 @@ footer{
 	
 	#gallery img{
 		padding:0;
+	}
+	
+	#videos img{
+	width:100%;
 	}
 }
