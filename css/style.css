@@ -196,8 +196,11 @@ footer{
 	header nave li{
 		float:none;
 		text-align:center;
-		
-		padding:5px;
+		padding:0 5px;
+	}
+	
+	header a{
+		font-size:10px;
 	}
 	
 	header{
