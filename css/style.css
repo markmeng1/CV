@@ -181,7 +181,7 @@ footer{
 /*Media Queries*/
 @media(max-width:768px){
 	header #branding,
-	header nav，
+	header nav,
 	#newsletter h1,
 	#newsletter form,
 	#boxes .box,
